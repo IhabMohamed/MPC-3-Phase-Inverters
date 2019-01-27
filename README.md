@@ -43,4 +43,4 @@ This repository contains the code for the following papers:
   publisher={Inderscience Publishers (IEL)}<br/>
 }<br/>
 
-**Eventually**, if you use these codes or relevant to your academic work, please cite the relevent article :-)
+**Eventually**, if you use these codes or relevant to your academic work, please cite the relevant article :-)
