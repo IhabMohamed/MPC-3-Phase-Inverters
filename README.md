@@ -14,6 +14,9 @@ Then, run the Simulink model (i.e., **MPC_3Phase_Inverter.slx**)
 ```
 Then again, run the Simulink model. Do not forget to uncomment and connect the Non-Linear load ;-)
 
+## Requirement:
+This model was updated to be compatible with `Matlab R2018a` and the most recent versions.
+
 ## Citations:
 This repository contains the code for the following papers:
 1. @inproceedings{mohamed2013three,<br/>
