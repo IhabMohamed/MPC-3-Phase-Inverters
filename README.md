@@ -6,7 +6,7 @@ This repository contains the codes for control a three-phase inverter with outpu
 ```
 >> clear all, clc, Ts = 30e-6; Vref = 200; Cfilter = 40e-6; Lfilter = 2.5e-3; Vdc = 500; Res = 100; 
 ```
-Then, run the Simulink model (i.e., **MPC_3Phase_Inverter.slx**)
+Then, run the Simulink model (i.e., `**MPC_3Phase_Inverter.slx**`)
 
 - For Non-Linear loads (i.e., diode-bridge rectifier), type in the Command window, for instance:
 ```
@@ -18,7 +18,8 @@ Then again, run the Simulink model. Do not forget to uncomment and connect the N
 This model was updated to be compatible with `Matlab R2018a` and the most recent versions.
 
 ## Citations:
-This repository contains the code for the following papers:
+**Eventually**, if you use the codes or relevant to your academic work, please cite one of the relevant articles :-), 
+
 1. @inproceedings{mohamed2013three,<br/>
   title={[Three-phase inverter with output LC filter using predictive control for UPS applications](https://www.researchgate.net/profile/Ihab_S_Mohamed/publication/261151989_Three-phase_inverter_with_output_LC_filter_using_predictive_control_for_UPS_applications/links/5560bfcd08ae9963a119f91c/Three-phase-inverter-with-output-LC-filter-using-predictive-control-for-UPS-applications.pdf)},<br/>
   author={Mohamed, Ihab S and Zaid, Sherif A and Elsayed, Hany M and Abu-Elyazeed, MF},<br/>
@@ -59,7 +60,6 @@ This repository contains the code for the following papers:
   publisher={Inderscience Publishers (IEL)}<br/>
 }<br/>
 
-**Eventually**, if you use these codes or relevant to your academic work, please cite the relevant article :-)
 
 > For further information or codes of other articles (e.g., HIL implementation), please feel free to conatct me.
 - **Ihab S. Mohamed**, INRIA Sophia Antipolis - Méditerranée, France, ihab.s.mohamed@gmail.com
