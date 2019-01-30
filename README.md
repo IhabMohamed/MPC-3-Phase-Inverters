@@ -14,6 +14,8 @@ Then, run the Simulink model (i.e., **MPC_3Phase_Inverter.slx**)
 ```
 Then again, run the Simulink model. Do not forget to uncomment and connect the Non-Linear load ;-)
 
+- For HIL simulations using DSP, run the `two .slx` files in `HIL MPC+DSP` folder. For more information, kindly have a look at the [MS Thesis](https://www.researchgate.net/publication/276920904_Implementation_of_Model_Predictive_Control_for_Three_Phase_Inverter_with_Output_LC_Filter_Using_DSP).
+
 ## Requirement:
 This model was updated to be compatible with `Matlab R2018a` and the most recent versions.
 
