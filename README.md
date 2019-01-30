@@ -63,5 +63,5 @@ This model was updated to be compatible with `Matlab R2018a` and the most recent
 }<br/>
 
 
-> For further information or codes of other articles (e.g., HIL implementation), please feel free to conatct me.
+> For further information, please feel free to contact me.
 - **Ihab S. Mohamed**, INRIA Sophia Antipolis - Méditerranée, France, ihab.s.mohamed@gmail.com
