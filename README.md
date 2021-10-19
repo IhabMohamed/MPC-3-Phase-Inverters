@@ -64,4 +64,4 @@ This model was updated to be compatible with `Matlab R2018a` and the most recent
 
 
 > For further information, please feel free to contact me.
-- **Ihab S. Mohamed**, INRIA Sophia Antipolis - Méditerranée, France, ihab.s.mohamed@gmail.com
+- **Ihab S. Mohamed**, ihab.s.mohamed@gmail.com
